@@ -1,2 +1,0 @@
-# quickshare.site
-Quickshare website.
